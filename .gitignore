@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+tmp/
+venv/
+/src/package_name.py
+/src/config.py
+.pytest_cache
